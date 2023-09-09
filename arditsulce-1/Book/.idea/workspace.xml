@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a7ef8d7-cf65-4ab6-99f7-816af1ad265c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/event.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/sqlexample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/temp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelBooking/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelBooking/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image/.idea/Image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app5/.idea/app5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app6/.idea/app6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../speechtext/.idea/speechtext.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelBooking/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelBooking/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2L7of0k4dGW2H81jKJ1hlb3hZtM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sambasivamkrishnamurthy/pythonlearning/arditsulce-1/Book&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a7ef8d7-cf65-4ab6-99f7-816af1ad265c" name="Changes" comment="" />
+      <created>1675231581841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675231581841</updated>
+    </task>
+    <servers />
+  </component>
+</project>
